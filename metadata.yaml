@@ -1,0 +1,30 @@
+_repo: The-Shaggy-Man-of-Oz_56683
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kramer, Frank
+    birthdate: 1905
+    deathdate: 1993
+    gutenberg_agent_id: '48914'
+    url: http://www.gutenberg.org/2009/agents/48914
+creator:
+  author:
+    agent_name: Snow, Jack
+    birthdate: 1907
+    deathdate: 1956
+    gutenberg_agent_id: '48913'
+    url: http://www.gutenberg.org/2009/agents/48913
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Snow_(writer)
+description: ''
+gutenberg_issued: '2018-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Shaggy Man of Oz
+url: http://www.gutenberg.org/ebooks/56683
